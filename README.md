@@ -23,3 +23,5 @@
   <a href="https://open.spotify.com/playlist/1v1p18x96kBKoq6ghaip6A?si=LqEj4XWCT02iPITzluxBdw" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/%C3%ADtalo-cavalcante" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
+
+![Snake animation](https://github.com/italohikikomori/italohikikomori/blob/output/github-contribution-grid-snake.svg)
