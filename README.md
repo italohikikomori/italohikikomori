@@ -6,12 +6,13 @@
 [![Ítalo Hikikomori's GitHub stats](https://github-readme-stats.vercel.app/api?username=italohikikomori&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://linktr.ee/italohikikomori)
 [![Ítalo Hikikomori's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italohikikomori&layout=compact&theme=radical)](https://linktr.ee/italohikikomori)
 
-<!--div style="display: inline_block"><br>
-  <img height="40px" width="40px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
+<div style="display: inline_block"><br>
+  <!--img height="40px" width="40px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
   <img height="40px" width="40px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
   <img height="40px" width="40px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-  <img height="40px" width="40px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-</div-->
+  <img height="40px" width="40px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/-->
+  <img height="40px" width="40px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+</div>
 
 ##
 
