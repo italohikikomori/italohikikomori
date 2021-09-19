@@ -1,4 +1,4 @@
-## Hello, my name is Ítalo Hikikomori ⛩️
+# Hello, my name is Ítalo Hikikomori ⛩️
 
 ### Currently I'm
 - 📚 Studying **JavaScript**.
