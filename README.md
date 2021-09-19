@@ -1,16 +1,26 @@
 ## Hello, my name is Ítalo Hikikomori ⛩️
 
-### Currently I'm:
-- 📚 Studying JavaScript.
+### Currently I'm
+- 📚 Studying **JavaScript**.
 
-### In soon I aim to:
+### In soon I aim to
 
-- 📚 Learn HTML, CSS & Java.
+- 📚 Learn **HTML**, **CSS** & **Java**.
 
-[![Ítalo Hikikomori's GitHub stats](https://github-readme-stats.vercel.app/api?username=italohikikomori&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://linktr.ee/italohikikomori)
-[![Ítalo Hikikomori's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italohikikomori&layout=compact&theme=radical)](https://linktr.ee/italohikikomori)
+<div>
+    <a href="https://linktr.ee/italohikikomori">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=italohikikomori&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italohikikomori&layout=compact&theme=radical"/>
+    <img height="40px" width="40px" src="https://media.discordapp.net/attachments/888890876267479062/889216926004432926/download20210903164651.png"/>
+</div>
 
-### I already know:
+## 
+
+### Pinned Repositories 📌
+  
+##
+
+### I already know 💻
 
 <div style="display: inline_block"><br>
   <!--img height="40px" width="40px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
@@ -29,6 +39,7 @@
   <a href="https://youtube.com/channel/UCm7JQfaT-Qk_6JaL-9KKW4w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://open.spotify.com/playlist/1v1p18x96kBKoq6ghaip6A?si=LqEj4XWCT02iPITzluxBdw" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/%C3%ADtalo-cavalcante" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  
 </div>
 
 ![Snake animation](https://github.com/italohikikomori/italohikikomori/blob/output/github-contribution-grid-snake.svg)
