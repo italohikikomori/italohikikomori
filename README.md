@@ -7,18 +7,16 @@
 
 - 📚 Learn **HTML**, **CSS** & **Java**.
 
-<div>
-    <a href="https://linktr.ee/italohikikomori">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=italohikikomori&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italohikikomori&layout=compact&theme=radical"/>
-</div>
+[![Ítalo Hikikomori's GitHub Stats](https://github-readme-stats.vercel.app/api?username=italohikikomori&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://linktr.ee/italohikikomori)
+[![Ítalo Hikikomori's Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=italohikikomori&theme=radical)](https://linktr.ee/italohikikomori)
+<!--[![Ítalo Hikikomori's Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=italohikikomori&layout=compact&theme=radical)](https://linktr.ee/italohikikomori)-->
 
 ## 
 
 ### Pinned Repositories 📌
-    
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=italohikikomori&repo=jettzinha&show_owner=true&theme=radical)](https://github.com/italohikikomori/jettzinha)
-  
+
+[![Jettzinha Repo](https://github-readme-stats.vercel.app/api/pin/?username=italohikikomori&repo=jettzinha&show_owner=true&theme=radical)](https://github.com/italohikikomori/jettzinha)
+
 ##
 
 ### I already know 💻
@@ -29,6 +27,7 @@
   <img height="40px" width="40px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
   <img height="40px" width="40px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/-->
   <img height="40px" width="40px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <!--img height="100px" width="100px" align="right" src="https://cdn.discordapp.com/attachments/888890876267479062/889223283818508358/download20210903164651.png"/-->
 </div>
 
 ##
