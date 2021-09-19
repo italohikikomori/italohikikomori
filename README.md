@@ -9,8 +9,8 @@
 
 <div>
     <a href="https://linktr.ee/italohikikomori">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=italohikikomori&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italohikikomori&layout=compact&theme=radical"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=italohikikomori&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italohikikomori&layout=compact&theme=radical"/>
 </div>
 
 ## 
